@@ -1,2 +1,2 @@
-path of file
-second Readme
+#!/bin/bash
+Second Readme
